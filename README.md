@@ -31,7 +31,7 @@ git clone https://github.com/Bushwel/Language-Translator.git
 
 ## Demo
 
-For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo]((https://Bushwel.github.io/Language-Translator))
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://Bushwel.github.io/Language-Translator/)
 
 
 
